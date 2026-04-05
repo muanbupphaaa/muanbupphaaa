@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**muanbupphaaa/muanbupphaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Fang
 
-Here are some ideas to get you started:
+## 👤 About me
+I’m interested in AI, especially using data to understand user behavior.  
+I started learning and building projects by myself and joined a hackathon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Project
+🎮 Churn Analysis (Game Users)  
+- Analyzed why players stop playing  
+- Focused on user behavior  
+- Applied machine learning
+
+## 🧠 What I learned
+- Problem-solving step by step  
+- Learning quickly under time pressure  
+- Enjoying challenges
+
+## 🌱 Currently learning
+Improving AI fundamentals and building stronger foundations.
+
+## 🎯 Goal
+To use AI to solve real-world problems.
