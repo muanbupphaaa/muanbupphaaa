@@ -23,6 +23,15 @@ I developed and managed databases using Python and SQL, and worked with tools li
 I built a full-stack web application and improved my frontend and backend skills using technologies like React, Node.js, and MongoDB.
 I also worked with Agile workflow and used tools like Trello to manage the project.
 
+# 🛠️ Skills
+
+I’ve worked with a mix of AI, data, and web technologies, including:
+
+- Languages: Python, SQL, Java, C++, JavaScript
+- AI / Data: Machine Learning (basic), Data Analysis, RapidMiner
+- Web Dev: HTML, CSS, React, Node.js, Express, MongoDB
+- Tools & Cloud: AWS, GitHub, Figma
+
 # 🧠 What I Learned
 How to break down problems and solve them step by step
 How to quickly learn new tools and technologies
