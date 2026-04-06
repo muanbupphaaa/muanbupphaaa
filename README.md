@@ -7,7 +7,7 @@ I enjoy learning by doing—whether it’s building projects, exploring new tool
 
 I’m also someone who adapts quickly and genuinely enjoys the process of solving problems, even when they get challenging.
 
-## 🚀 Projects
+# 🚀 Projects
 
  🎮 Churn Analysis (Game Users)
 I worked on analyzing why players stop playing games by exploring their behavior.
